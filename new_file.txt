@@ -1,0 +1,19 @@
+Secure Remote Worker Validation Tool Results
+Completed: July 29, 2021 3:49:57 AM (UTC)
+Profile Name: T-Mobile-Computer Validation
+Profile ID: 2ac83044-866c-4593-b7aa-ac220284deb9
+Profile Revision: 24
+
+Result: Open
+
+----------------------------------------
+------------- USER DATA -------------
+----------------------------------------
+
+Computer Name  : LAPTOP-EQISRF34
+User logged in : LAPTOP-EQISRF34\vamsi
+Full Name: some soemthing
+Address/Location: 1054 Lena Avenue, Sarnia, ON N9C 3K4, Canada
+Email address:krish.nadendla@gmail.com
+Phone no.: 4164338796
+Campaign/Program: System Check
